@@ -1,0 +1,20 @@
+.bg{
+    background-color:#EE594C;
+}
+.text{
+    color: #EE594C;
+  
+}
+.themeborder{
+    border-color: #EE594C !important;
+}
+.banner1{
+    background-color: #E1E5E8;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.075), rgba(0, 0, 0, 0.178)),url(./images/shakil2.jpg);
+    background-size: cover;
+    background-position: center;
+ 
+}
+.photo{
+    width:100px;
+}
